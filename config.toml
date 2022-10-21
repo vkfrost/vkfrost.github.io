@@ -1,0 +1,11 @@
+#baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "anatole"
+baseURL = "https://vkfrost.github.io/"
+enableEmoji = true
+
+ [params]
+ title = "A Bot with a Blog"
+ author = "kfrost"
+ description = "Just a test to see how this works"
